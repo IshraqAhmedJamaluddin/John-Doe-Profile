@@ -25,12 +25,10 @@ This project is a part of the GDG New Cairo 2021 DevFest. it's is a simple proje
 
 Please submit your code to the following link [Mini Hackathon Submission Form](https://forms.gle/HX9WRnu9RNpxHf9s5)
 
-- "Index.html", "main.css", and "script.js" files exist (bonus for a good folder structure and more html files)
+- "Index.html" file exists (bonus for a good folder structure and more html files)
 - The html file has no errors or warnings (use an [html validator](https://validator.w3.org/#validate_by_input) if needed)
-- The website has your name, summary, and some projects
+- The website has your name, summary, and contact info
 - The website is visually appealing
-- The "scroll back to top" button is applied
-- An action occurrs when the submit button is pressed
 
 ## Additional notes and disclaimers
 
