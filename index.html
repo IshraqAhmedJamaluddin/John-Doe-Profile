@@ -21,6 +21,19 @@
             margin: 0;
             padding: 0.5em 2em ;
         }
+        #navigation {
+            list-style: none;
+            display: flex;
+            background-color: rgb(77, 77, 77);
+            margin: 0;
+            padding: 0.5em 2em ;
+            font-family: sans-serif;
+        }
+        #navigation a {
+            text-decoration: none;
+            margin: 0 1em;
+            color: white;
+        }
         #showcase {
             background-image: url("images/bg.jpg");
             background-size: cover;
@@ -86,11 +99,19 @@
     <header>
         <h1>John's Portfolio</h1>
     </header>
+    <nav>
+        <ul id="navigation">
+            <li><a href="#about">About</a></li>
+            <li><a href="#resume">Resume</a></li>
+            <li><a href="#footer">Contact Me</a></li>
+        </ul>
+    </nav>
     <div id="showcase">
         <div class="container">
             <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nostrum.</h2>
         </div>
     </div>
+
     <div class="aboutContainer">
         <div id="main">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus sequi ea optio ab et, possimus
